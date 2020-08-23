@@ -1,4 +1,14 @@
-### Hi there 👋
+# Indian Pythonista
+
+An avid Pythonista who loves to automate the boring stuff and create utilities.
+
+📺 [YouTube](https://youtube.com/IndianPythonista)
+
+
+📖 [Blog](https://indianpythonista.wordpress.com/)
+
+
+🐦 [Twitter](https://twitter.com/nikhilksingh97/)
 
 <!--
 **nikhilkumarsingh/nikhilkumarsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
